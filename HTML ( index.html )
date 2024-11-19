@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Mariana Seruti</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à página de Mariana Seruti</h1>
+    </header>
+    
+    <main>
+        <section class="content">
+            <p>Olá! Sou Mariana Seruti. Esta é minha página de exemplo.</p>
+            <p>Esta página foi criada com HTML e CSS responsivo, ajustando-se a diferentes tamanhos de tela.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Mariana Seruti</p>
+    </footer>
+</body>
+</html>
